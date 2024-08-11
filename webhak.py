@@ -22,7 +22,7 @@ def threadprank(webhook_url, message, count, num_threads)
         thread.join()
 
 def main()
-    print(webhook bomber by hitfusion (0 effort))
+    print(webhook bomber by hitfusion (0 effort) tysm for adding threading YeezyDaOne)
     webhook_url = input(webhook link )
     message = input(thing u want to send )
     count = int(input(number of messages you want ))
