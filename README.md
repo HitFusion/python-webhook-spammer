@@ -6,6 +6,4 @@ very sigma spammer
 
 pip install discord
 
-pip install threading
-
 a brain
