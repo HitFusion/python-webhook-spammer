@@ -1,6 +1,6 @@
-very sigma spammer
+# Easy to use.
 
-
+It's open source so u can use it.
 
 # Requirements
 
